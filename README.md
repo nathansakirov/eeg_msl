@@ -1,7 +1,6 @@
 # eeg_msl
 
-**DISCLAIMER: OUTDATED
-**
+**DISCLAIMER: OUTDATED**
 
 ERD/ERS analysis for motor sequence learning in MNE-Python
 
