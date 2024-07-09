@@ -2,6 +2,6 @@
 
 DISCLAIMER: OUTDATED
 
-ERD/ERS analysis for motor preparation in motor sequence learning
+ERD/ERS analysis for motor sequence learning in MNE-Python
 
-The version uploaded here is a full script, containing the processing of sixteen particpants. In future iterations, this full script will be cleaned up and adjusted for trial-by-trial analysis!
+This repository is merely a back-up for the full processing of sixteen participants as part of a thesis project. No future changes will be made. 
