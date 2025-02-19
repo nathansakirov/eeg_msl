@@ -1,6 +1,6 @@
 # ERD/ERS Analysis Pipeline
 
-This notebook provides a reusable pipeline to process EEG data for a simple ERD/ERS analysis. It served as a guiding framework for a thesis project for EEG analysis in sequential motor learning.
+This notebook provides a reusable pipeline to process EEG data for a simple ERD/ERS analysis. It served as a guiding framework for a thesis project for EEG analysis in a sequential motor learning task.
 
 It:
 - Loads pre-processed EEG data for a participant.
